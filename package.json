@@ -1,11 +1,11 @@
 {
-  "name": "http-proxy-node16",
-  "version": "1.0.3",
+  "name": "http-proxy",
+  "version": "1.18.1-magda-0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jimbly/http-proxy-node16.git"
+    "url": "git@github.com:magda-io/http-proxy-node.git"
   },
-  "description": "Fork of http-proxy that works on Node v16.x",
+  "description": "Fork of http-proxy-node16",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "contributors": [
     "Jimb Esser (https://github.com/Jimbly/)",
